@@ -1,0 +1,3 @@
+﻿  masiv s diog.cpp
+C:\Users\A1caida\source\repos\masiv s diog\masiv s diog\masiv s diog.cpp(8,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  masiv s diog.vcxproj -> C:\Users\A1caida\source\repos\masiv s diog\Debug\masiv s diog.exe
